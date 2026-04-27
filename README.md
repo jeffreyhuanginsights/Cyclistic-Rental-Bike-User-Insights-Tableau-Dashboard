@@ -1,0 +1,2 @@
+# Cyclistic-Rental-Bike-User-Insights-Tableau-Dashboard
+This project analyzes rental bike usage patterns for Cyclistic (Divvy Bikes) for 2025 with the aim of analyzing how to convert casual riders to annual members. Variables analyzed include seasonality, timing, bike preference, location, etc. SQL was used for cleaning, Python was used for a deeper dive, and Tableau was used for data visualization.
